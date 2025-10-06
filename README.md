@@ -2,7 +2,7 @@
 
 > **Technicaly**: Advanced trading platform providing actionable insights with over **30 technical indicators** and candlestick pattern recognition.
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue)](https://technicaly.ai)  [![License](https://img.shields.io/badge/License-Proprietary-orange)]()
+[![Platform](https://img.shields.io/badge/Platform-Web-blue)](https://tacrypto.pro)  [![License](https://img.shields.io/badge/License-Proprietary-orange)]()
 
 ---
 
